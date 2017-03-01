@@ -1,2 +1,5 @@
 db.sqlite3
 mysite.db
+myblog/__pycache__/
+myblog/migrations/__pycache__/
+mysite/__pycache__/settings.cpython-35.pyc
