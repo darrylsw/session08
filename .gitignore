@@ -1,5 +1,5 @@
 db.sqlite3
 mysite.db
-myblog/__pycache__/
-myblog/migrations/__pycache__/
-mysite/__pycache__/
+myblog/__pycache__/*
+myblog/migrations/__pycache__/*
+mysite/__pycache__/*
